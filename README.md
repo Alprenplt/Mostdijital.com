@@ -1,2 +1,3 @@
 # Mostdijital.com
-Mostidea Şirketinin Dijital Web Sitesi 
+
+Wordpress ile yaptığım <a> mostdijital.com </a> web sitesi
